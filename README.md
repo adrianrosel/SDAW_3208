@@ -23,7 +23,6 @@ Para levantar el servidor localmente, sigue estos pasos:
 
 1.  **Clonar el repositorio** (o tener los archivos):
     ```bash
-    # (Este comando sería para otro usuario, tú ya tienes la carpeta)
     # git clone [https://github.com/TU_USUARIO/SDAW_3208.git](https://github.com/TU_USUARIO/SDAW_3208.git)
     # cd SDAW_3208
     ```
