@@ -64,3 +64,12 @@ Lista de comandos básicos utilizados en esta etapa:
 
 (Ejemplo de párrafo)
 Esta práctica ha sido fundamental para entender el flujo de trabajo completo de un desarrollador. Conectar un proyecto local de Node.js con un repositorio de Git, gestionar dependencias y entender cómo funciona el `.gitignore` son habilidades básicas que usaré en todos mis proyectos futuros.
+## Información técnica añadida desde rama 1
+
+En esta sección se describen los principales comandos de Git utilizados durante la práctica:
+- **git init**: Inicializa un nuevo repositorio de Git en la carpeta actual.
+- **git add**: Añade archivos modificados al "staging area", preparándolos para el commit.
+- **git commit**: Guarda una instantánea de los archivos del "staging area" en el historial local.
+- **git branch**: Permite crear, listar o eliminar ramas.
+- **git merge**: Fusiona los cambios de una rama en otra.
+- **git push**: Sube los commits locales a un repositorio remoto (como GitHub).
