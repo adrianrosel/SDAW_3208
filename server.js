@@ -1,3 +1,10 @@
+// --- Servidor de Práctica SDAW ---
+// Creado por Adrian Rosel Martinez
+// ---------------------------------
+
+// 1. Importar el módulo 'express'
+const express = require('express');
+// ... (el resto del archivo sigue igual)
 // 1. Importar el módulo 'express'
 const express = require('express');
 // 2. Importar el módulo 'path' (viene con Node.js) para manejar rutas de archivos
