@@ -64,3 +64,10 @@ Lista de comandos básicos utilizados en esta etapa:
 
 (Ejemplo de párrafo)
 Esta práctica ha sido fundamental para entender el flujo de trabajo completo de un desarrollador. Conectar un proyecto local de Node.js con un repositorio de Git, gestionar dependencias y entender cómo funciona el `.gitignore` son habilidades básicas que usaré en todos mis proyectos futuros.
+
+## Información técnica añadida desde rama 2
+
+A continuación, se muestra el historial de commits de la rama main en este punto:
+50d09f1 (HEAD -> rama2-AdrianRosel2, origin/main, main) Docs: Añade comentarios de autoría al servidor
+d1a7e04 Feat: Cambia el color del botón
+b6c71cc Initial project setup
